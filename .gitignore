@@ -2,5 +2,11 @@
 */.DS_Store
 
 .venv
+venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+*.jpeg*
+*.jpg
+*.png
+__MACOSX/
+*.zip
